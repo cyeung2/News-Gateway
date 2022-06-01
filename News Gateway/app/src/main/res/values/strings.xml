@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News Gateway</string>
+    <string name="drawer_open">Open navagation drawer</string>
+    <string name="drawer_close">Close navigation bar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="of_10">of 10</string>
+    <string name="textview">TextView</string>
+</resources>
